@@ -12,11 +12,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=juancostadasilva&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
     </td>
   </tr>
 </table>
