@@ -1,39 +1,43 @@
-<!-- Banner opcional -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Juan%20Costa%20Da%20Silva&fontSize=40&fontColor=ffffff" alt="Banner"/>
 </p>
 
-<h1 align="center">Olá, eu sou o Juan Costa Da Silva 👋</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
+<h1 align="center">Olá, eu sou o Juan Costa Da Silva</h1>
 
-<!-- Ícones das linguagens/tecnologias -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48" style="filter: grayscale(100%)"/>
-</p>
-
----
-
-## Sobre mim
-
-🎓 **Aluno de Desenvolvimento de Sistemas**  
-💜 Apaixonado por tecnologia, inovação e desafios  
-🚀 Buscando sempre evoluir e aprender novas ferramentas  
-🤝 Aberto a colaborações e projetos em equipe  
+<!-- Estatísticas + Tecnologias lado a lado -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=juancostadasilva&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="border-radius:12px; box-shadow:0 0 12px #8A2BE2;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Estatísticas
+## 🚀 Sobre mim
+
+- 🎓 **Aluno de Desenvolvimento de Sistemas**
+- 💜 Apaixonado por tecnologia, inovação e desafios
+- 🚀 Sempre buscando evoluir e aprender novas ferramentas
+- 🤝 Aberto a colaborações e projetos em equipe
+
+---
+
+## 📫 Contato
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juancostadasilva&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+  <a href="mailto:juancosta503@gmail.com">
+    <img src="https://img.shields.io/badge/-juancosta503@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
