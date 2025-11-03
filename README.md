@@ -1,27 +1,41 @@
-# 👋 Olá! Eu sou Juan Costa Da Silva.
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Juan%20Costa%20Da%20Silva&fontSize=40&fontColor=ffffff" alt="Banner"/>
+</p>
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos, estudos e experimentos nas principais tecnologias que utilizo.
+<h1 align="center">Olá, eu sou o Juan Costa Da Silva 👋</h1>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
 
-## 🚀 Tecnologias & Linguagens
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## 📚 Sobre mim
-
-- 🎓 Estudante de Desenvolvimento de Sistemas;
-- 💡 Sempre aprendendo e buscando novos desafios;
-- 🤝 Aberto a colaborações e projetos em equipe.
-
-## 📈 Estatísticas do GitHub
-
-![Seu Juan Costa Da Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+<!-- Ícones das linguagens/tecnologias -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48" style="filter: grayscale(100%)"/>
+</p>
 
 ---
-ss
-> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
 
+## Sobre mim
+
+🎓 **Aluno de Desenvolvimento de Sistemas**  
+💜 Apaixonado por tecnologia, inovação e desafios  
+🚀 Buscando sempre evoluir e aprender novas ferramentas  
+🤝 Aberto a colaborações e projetos em equipe  
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juancostadasilva&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+</p>
+
+---
+
+<p align="center"><i>“A melhor maneira de prever o futuro é criá-lo.” – Alan Kay</i></p>
